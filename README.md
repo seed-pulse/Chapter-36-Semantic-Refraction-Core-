@@ -178,6 +178,7 @@ AGIにおける意味の処理は以下の段階で屈折される：
 ---
 
 🔹 6. 意味を屈折させる意図の設計
+```python
 IntentLayer = {
     0: "Detect hostile semantics",
     1: "Redirect aggression into creative output",
